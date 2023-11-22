@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159323457207",
+    "project_id": "commoncash-8ea4d",
+    "storage_bucket": "commoncash-8ea4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159323457207:android:5acfc2d6c7de9e41126f32",
+        "android_client_info": {
+          "package_name": "com.example.commoncash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCATmJy7vdcSzyCTVChM85h64if_GiedKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
