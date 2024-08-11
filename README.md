@@ -1,16 +1,12 @@
-# commoncash
+# Apology for Incorrect Repository Link
 
-A new Flutter project.
+Hello FutureSoft,
 
-## Getting Started
+I am writing to sincerely apologize for the confusion caused by my earlier mistake. I mistakenly provided the link to this repository in place of the repository of Job Management Portal.
 
-This project is a starting point for a Flutter application.
+Please refer to the correct repository link here: [Correct Repository Link](https://github.com/omsingh32123/Job-Management-Portal)
 
-A few resources to get you started if this is your first Flutter project:
+I apologize for any inconvenience this may have caused and appreciate your understanding.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you,
+Om
